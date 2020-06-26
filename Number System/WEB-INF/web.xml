@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>aa</servlet-name>
+<servlet-class>Conversion</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>aa</servlet-name>
+<url-pattern>/calculator</url-pattern>
+</servlet-mapping>
+</web-app>
